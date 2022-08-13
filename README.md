@@ -14,11 +14,17 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ... -->
 
 
-### My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true&theme=dark)  
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css,)](https://skillicons.dev)
-
-### Contributions & Streaks
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shabh2412&theme=dark) 
+<div align="center">
+  <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
+  <hr width="50%"/>
+  <h3>My Skills</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css," alt="My Skills"/>
+  <hr width="50%"/>
+   <h3>My Contributions & Streaks</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabh2412&theme=dark" alt="GitHub stats"/>
+  <br/>
+  <hr/>
+  <br/>
+</div>
