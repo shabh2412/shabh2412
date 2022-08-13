@@ -13,6 +13,12 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shabh2412) 
+### My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true&theme=dark)  
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css,)](https://skillicons.dev)
+
+### Contributions & Streaks
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shabh2412&theme=dark) 
