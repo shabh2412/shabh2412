@@ -49,4 +49,14 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Fraazo-Clone&theme=react&langs_count=5"/>
 </div>
 
+<!-- Funny Random Joke -->
+
+<div align="center">
+  <h3>If you've come this far, then you've probably liked my profile, and here's a random joke for you XD.</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+</div>
+<p align="center">
+  <code>Refresh the page for a new joke</code>
+</p>
+
 ![](https://hit.yhype.me/github/profile?user_id=51595564)
