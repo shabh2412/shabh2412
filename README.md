@@ -1,7 +1,7 @@
 <!--<img align="left" width="250px" src="./IMG_3696.jpg"/>-->
 
 ```js
-console.log("A web developer by profession, a dog lover by heart ❤️, and fitness enthusiast by interest!");
+console.log("A web developer by profession, an animal lover by heart ❤️, and fitness enthusiast by interest!");
 ```
 
 
