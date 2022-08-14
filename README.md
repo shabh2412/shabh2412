@@ -19,7 +19,9 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
 💬 Always ready to discuss stuff about web! 🕸
 
 <hr/>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shabh2412&style=for-the-badge"/>
+</div>
 <div align="center">
   <h3>My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
@@ -33,3 +35,5 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
   <hr/>
   <br/>
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=51595564)
