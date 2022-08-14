@@ -40,5 +40,13 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabh2412&layout=compact&langs_count=8&theme=react" />
 </div>
 
+<!-- Most Popular Repository -->
+<div align="center">
+  <h3>Some of my cool repositories</h3>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=stock_price_prediction_application&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=cagey-bIte-6066&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Spotify-clone&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Fraazo-Clone&theme=react&langs_count=5"/>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=51595564)
