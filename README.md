@@ -33,13 +33,12 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
   <img src="https://github-readme-stats.vercel.app/api?username=shabh2412&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
   <hr width="50%"/>
   <h3>My Skills</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css," alt="My Skills"/>
+  <img aling="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css," alt="My Skills"/>
   <hr width="50%"/>
-   <h3>My Contributions & Streaks</h3>
+   <h3>Some More Data... 😁</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabh2412&theme=dark" alt="GitHub stats"/>
-  <br/>
-  <hr/>
-  <br/>
+  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabh2412&layout=compact&langs_count=8&theme=react" />
 </div>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=51595564)
