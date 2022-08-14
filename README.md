@@ -1,19 +1,24 @@
-### Hi there! I'm Rishabh 👋
+<!--<img align="left" width="250px" src="./IMG_3696.jpg"/>-->
 
-<!-- **shabh2412/shabh2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on React.js Projects...
-- 🌱 I’m currently learning ```React.js```... 
-- 💬 Ask me about Tech...
-- 📫 How to reach me: [rishabhpanesar@gmail.com](mailto:rishabhpanesar@gmail.com)...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I am a developer XD...
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+```js
+console.log("A web developer by profession, a dog lover by heart ❤️, and fitness enthusiast by interest!");
+```
 
 
+<img align="right" width="250px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/shabh2412/shabh2412/shabh2412-image-and-about-me/IMG_3696.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
+<h1 align="left"> <i>Hi There! I'm Rishabh 👋 </i></h1>
+
+💛 In love with **`JavaScript`**
+
+🎨 Love writing CSS
+
+👨🏼‍💻 Currently working with **React**, **Redux**, **Chakra UI**
+
+🌱 Learning **TypeScript**, **Next.JS**, **Gatsby**
+
+💬 Always ready to discuss stuff about web! 🕸
+
+<hr/>
 
 <div align="center">
   <h3>My GitHub Stats</h3>
