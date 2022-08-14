@@ -24,8 +24,8 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
 </div>
 
 <div align="center">
-<img src="https://custom-icon-badges.herokuapp.com/github/followers/shabh2412?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-<img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shabh2412"/>
+<img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/shabh2412?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+<img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shabh2412"/>
 </div>
 
 <div align="center">
