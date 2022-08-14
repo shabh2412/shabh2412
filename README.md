@@ -59,4 +59,17 @@ console.log("A web developer by profession, a dog lover by heart ❤️, and fit
   <code>Refresh the page for a new joke</code>
 </p>
 
+<div align="center">
+<h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/rishabh-panesar/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://twitter.com/PanesarRishabh">
+  <img src="https://skillicons.dev/icons?i=twitter">
+</a>
+<a href="https://www.instagram.com/rishabhpanesar/">
+  <img src="https://skillicons.dev/icons?i=instagram">
+</a>
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=51595564)
