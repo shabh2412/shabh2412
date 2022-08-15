@@ -1,9 +1,10 @@
 <!--<img align="left" width="250px" src="./IMG_3696.jpg"/>-->
 
 ```js
-console.log("A web developer by profession, an animal lover by heart ❤️, and fitness enthusiast by interest!");
+console.log(
+	"A web developer by profession, an animal lover by heart ❤️, and fitness enthusiast by interest!"
+);
 ```
-
 
 <img align="right" width="250px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/shabh2412/shabh2412/shabh2412-image-and-about-me/IMG_3696.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
 <h1 align="left"> <i>Hi There! I'm Rishabh 👋 </i></h1>
@@ -26,6 +27,10 @@ console.log("A web developer by profession, an animal lover by heart ❤️, and
 <div align="center">
 <img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/shabh2412?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 <img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shabh2412"/>
+</div>
+
+<div align="center">
+<a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
 </div>
 
 <div align="center">
