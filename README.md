@@ -1,9 +1,7 @@
 <!--<img align="left" width="250px" src="./IMG_3696.jpg"/>-->
 
 ```js
-console.log(
-	"A web developer by profession, an animal lover by heart ❤️, and fitness enthusiast by interest!"
-);
+console.log("A web developer by profession, an animal lover by heart ❤️, and fitness enthusiast by interest!");
 ```
 
 <img align="right" width="250px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/shabh2412/shabh2412/shabh2412-image-and-about-me/IMG_3696.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
