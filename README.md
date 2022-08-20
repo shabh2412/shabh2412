@@ -55,7 +55,7 @@ console.log("A web developer by profession, an animal lover by heart ❤️, and
 <!-- Funny Random Joke -->
 
 <div align="center">
-  <h3>If you've come this far, then you've probably liked my profile, and here's a random joke for you XD.</h3>
+  <h3>Here's a random developer joke for you XD.</h3>
   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 </div>
 <p align="center">
