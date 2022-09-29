@@ -17,6 +17,8 @@ console.log("A web developer by profession, an animal lover by heart ❤️, and
 
 💬 Always ready to discuss stuff about web! 🕸
 
+Connect with me on LinkedIn: [rishabh-panesar](https://www.linkedin.com/in/rishabh-panesar/)
+
 <hr/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shabh2412&style=for-the-badge"/>
