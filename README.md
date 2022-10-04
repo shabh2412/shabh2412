@@ -49,9 +49,9 @@ Connect with me on LinkedIn: [rishabh-panesar](https://www.linkedin.com/in/risha
 <div align="center">
   <h3>Some of my cool repositories</h3>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=stock_price_prediction_application&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=cagey-bIte-6066&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=basic-chatting-app&theme=react&langs_count=5"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Spotify-clone&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Fraazo-Clone&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=blog-app-fe&theme=react&langs_count=5"/>
 </div>
 
 <!-- Funny Random Joke -->
