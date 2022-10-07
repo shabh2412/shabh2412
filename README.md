@@ -13,7 +13,7 @@ console.log("A web developer by profession, an animal lover by heart ❤️, and
 
 👨🏼‍💻 Currently working with **React**, **Redux**, **Chakra UI**
 
-🌱 Learning **TypeScript**, **Next.JS**, **Gatsby**
+🌱 Learning **TypeScript**, **Next.JS**, **Tailwind CSS** & **Material UI**
 
 💬 Always ready to discuss stuff about web! 🕸
 
