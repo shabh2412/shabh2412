@@ -11,7 +11,7 @@ console.log("A web developer by profession, an animal lover by heart ❤️, and
 
 🎨 Love writing CSS
 
-👨🏼‍💻 Currently working with **Next.JS**, **Redux**, **Chakra UI**
+👨🏼‍💻 Currently working with **Next.JS**, **Redux**, **Chakra UI** & **TypeScript**
 
 🌱 Learning **TypeScript**, **Next.JS**, **Tailwind CSS** & **Material UI**
 
