@@ -42,7 +42,7 @@ Connect with me on LinkedIn: [rishabh-panesar](https://www.linkedin.com/in/risha
   <hr width="50%"/>
    <h3>Some More Data... 😁</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabh2412&theme=dark" alt="GitHub stats"/>
-  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabh2412&layout=compact&langs_count=8&theme=react" />
+  <img alt="most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabh2412&layout=compact&langs_count=8&theme=react" />
 </div>
 
 <!-- Most Popular Repository -->
